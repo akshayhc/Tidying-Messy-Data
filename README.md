@@ -1,6 +1,4 @@
-# PyData 2018: Cleaning and Tidying Data in Pandas
 
-https://github.com/chendaniely/pydatadc_2018-tidy/
 
 # Setup
 
